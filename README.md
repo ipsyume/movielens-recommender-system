@@ -34,7 +34,7 @@ Evaluation metrics:
 - Mean Absolute Error (MAE)
 
 ### Cross-validation Results
-![Cross Validation Results](cross_validation_results.png)
+![Cross Validation Results](results.png)
 
 ---
 
@@ -42,7 +42,7 @@ Evaluation metrics:
 After training on the full dataset, the model generates personalized movie recommendations for a given user by predicting ratings for unseen movies.
 
 ### Sample Recommendations
-![Final Recommendations](final_recommendations_output.png)
+![Final Recommendations](results.png)
 
 ---
 
